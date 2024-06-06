@@ -34,6 +34,7 @@
         </tbody>
     </table>
 </div>
+<a href="http://www.example.com">Link text</a>
 <head>
     <style>
         .jdr-cbody-table-div {
