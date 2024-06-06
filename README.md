@@ -34,7 +34,7 @@
         </tbody>
     </table>
 </div>
-<a href="http://www.example.com">Link text</a>
+<a style = "text-align: center" href="https://github.com/Yaosile">GITHUB</a>
 <head>
     <style>
         .jdr-cbody-table-div {
